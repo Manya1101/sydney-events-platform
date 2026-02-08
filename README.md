@@ -25,6 +25,11 @@ This project demonstrates an end-to-end pipeline:
 - REST APIs
 
 ---
+##  Live Demo
+
+Frontend (deployed on Vercel):  
+https://sydney-events-platform-one.vercel.app/
+ ---
 
 ##  Features Implemented
 
